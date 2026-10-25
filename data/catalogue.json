@@ -1,0 +1,542 @@
+[
+ {
+  "id": "00",
+  "title": "Hag",
+  "medium": "",
+  "w": 15.03,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "01",
+  "title": "",
+  "medium": "",
+  "w": 14.73,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "02",
+  "title": "",
+  "medium": "",
+  "w": 19.82,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "03",
+  "title": "United We Stand 2",
+  "medium": "",
+  "w": 14.9,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "04",
+  "title": "Work Day",
+  "medium": "Oil on Canvas",
+  "w": 14.74,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "05",
+  "title": "Where's My Morning Coffee",
+  "medium": "",
+  "w": 15.35,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "06",
+  "title": "",
+  "medium": "",
+  "w": 15.98,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "07",
+  "title": "United We Stand",
+  "medium": "Oil on Canvas",
+  "w": 10.91,
+  "h": 14,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "08",
+  "title": "",
+  "medium": "",
+  "w": 11.9,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "09",
+  "title": "",
+  "medium": "Oil on Masonite",
+  "w": 7.13,
+  "h": 12,
+  "guess": false,
+  "year": "",
+  "kind": "panel"
+ },
+ {
+  "id": "10",
+  "title": "Legal Tender",
+  "medium": "Acrylic and Oil on Canvas",
+  "w": 28,
+  "h": 21.73,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "11",
+  "title": "",
+  "medium": "Oil on Canvas",
+  "w": 12,
+  "h": 11.98,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "12",
+  "title": "",
+  "medium": "Oil on Masonite",
+  "w": 18.46,
+  "h": 24,
+  "guess": false,
+  "year": "",
+  "kind": "panel"
+ },
+ {
+  "id": "13",
+  "title": "Legal Tender 2",
+  "medium": "Oil on Canvas",
+  "w": 16,
+  "h": 11.89,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "14",
+  "title": "",
+  "medium": "Oil on Canvas",
+  "w": 30.39,
+  "h": 40,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "15",
+  "title": "Don't Sue Me I'm Only the Bartender",
+  "medium": "Oil on Canvas",
+  "w": 7.84,
+  "h": 12,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "16",
+  "title": "Welcome to the Free World",
+  "medium": "Oil on Canvas",
+  "w": 10.94,
+  "h": 14,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "17",
+  "title": "",
+  "medium": "Oil on Canvas",
+  "w": 19.44,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "18",
+  "title": "",
+  "medium": "Oil on Canvas",
+  "w": 29.97,
+  "h": 40,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "19",
+  "title": "Out of Reach No. 1",
+  "medium": "Oil on Canvas",
+  "w": 11.89,
+  "h": 16,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "20",
+  "title": "Out of Reach No. 2",
+  "medium": "Oil on Canvas",
+  "w": 12,
+  "h": 16,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "21",
+  "title": "Out of Reach No. 3",
+  "medium": "Acrylic and Oil on Canvas",
+  "w": 12,
+  "h": 12,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "22",
+  "title": "This is Not Hypnosis",
+  "medium": "Oil on Masonite",
+  "w": 17.71,
+  "h": 24,
+  "guess": false,
+  "year": "",
+  "kind": "panel"
+ },
+ {
+  "id": "23",
+  "title": "",
+  "medium": "Oil on Wood",
+  "w": 14.73,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "panel"
+ },
+ {
+  "id": "24",
+  "title": "",
+  "medium": "Oil on Canvas",
+  "w": 15.97,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "25",
+  "title": "Snapshot",
+  "medium": "",
+  "w": 18.11,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "26",
+  "title": "Bugfish",
+  "medium": "Oil",
+  "w": 6.5,
+  "h": 7.75,
+  "guess": false,
+  "year": "",
+  "kind": "panel"
+ },
+ {
+  "id": "27",
+  "title": "Creature",
+  "medium": "Acrylic and Oil on Canvas",
+  "w": 20,
+  "h": 19.74,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "28",
+  "title": "",
+  "medium": "Oil on Canvas",
+  "w": 15.97,
+  "h": 20,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "29",
+  "title": "",
+  "medium": "Water Color on Paper",
+  "w": 8.96,
+  "h": 12,
+  "guess": false,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "30",
+  "title": "",
+  "medium": "Oil on Canvas",
+  "w": 24,
+  "h": 18.91,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "31",
+  "title": "",
+  "medium": "",
+  "w": 24,
+  "h": 19.13,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "32",
+  "title": "",
+  "medium": "",
+  "w": 24,
+  "h": 12.2,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "33",
+  "title": "",
+  "medium": "Acrylic and Oil on Canvas",
+  "w": 23.85,
+  "h": 24,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "34",
+  "title": "",
+  "medium": "",
+  "w": 24,
+  "h": 18.55,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "35",
+  "title": "",
+  "medium": "",
+  "w": 24,
+  "h": 17.54,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "36",
+  "title": "",
+  "medium": "",
+  "w": 23.89,
+  "h": 24,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "37",
+  "title": "",
+  "medium": "",
+  "w": 24,
+  "h": 17.85,
+  "guess": true,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "38",
+  "title": "",
+  "medium": "Digital (Procreate)",
+  "w": 18,
+  "h": 10.56,
+  "guess": true,
+  "year": "2024",
+  "kind": "digital"
+ },
+ {
+  "id": "39",
+  "title": "",
+  "medium": "Acrylic on Canvas",
+  "w": 56,
+  "h": 40,
+  "guess": false,
+  "year": "2019",
+  "kind": "canvas"
+ },
+ {
+  "id": "40",
+  "title": "",
+  "medium": "Ink on Paper",
+  "w": 8.25,
+  "h": 11,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "41",
+  "title": "Orb of Power",
+  "medium": "Ink on Paper",
+  "w": 8.43,
+  "h": 12,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "42",
+  "title": "",
+  "medium": "Ink on Paper",
+  "w": 9,
+  "h": 12,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "43",
+  "title": "",
+  "medium": "Ink on Paper & Digital Color",
+  "w": 11,
+  "h": 9.94,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "44",
+  "title": "",
+  "medium": "Ink on Paper",
+  "w": 14,
+  "h": 8.96,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "45",
+  "title": "",
+  "medium": "Ink on Paper",
+  "w": 9.6,
+  "h": 12,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "46",
+  "title": "",
+  "medium": "Ink and Digital Color",
+  "w": 11,
+  "h": 9.38,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "47",
+  "title": "",
+  "medium": "",
+  "w": 8.55,
+  "h": 10,
+  "guess": false,
+  "year": "",
+  "kind": "canvas"
+ },
+ {
+  "id": "48",
+  "title": "",
+  "medium": "Ink",
+  "w": 11,
+  "h": 8.26,
+  "guess": true,
+  "year": "",
+  "kind": "paper"
+ },
+ {
+  "id": "49",
+  "title": "",
+  "medium": "Digital Painting",
+  "w": 12.52,
+  "h": 18,
+  "guess": true,
+  "year": "",
+  "kind": "digital"
+ },
+ {
+  "id": "50",
+  "title": "",
+  "medium": "Digital Painting",
+  "w": 18,
+  "h": 14.4,
+  "guess": true,
+  "year": "",
+  "kind": "digital"
+ },
+ {
+  "id": "51",
+  "title": "",
+  "medium": "Digital Painting",
+  "w": 18,
+  "h": 14.33,
+  "guess": true,
+  "year": "",
+  "kind": "digital"
+ },
+ {
+  "id": "52",
+  "title": "",
+  "medium": "Digital Painting",
+  "w": 18,
+  "h": 10.8,
+  "guess": true,
+  "year": "",
+  "kind": "digital"
+ },
+ {
+  "id": "53",
+  "title": "",
+  "medium": "Digital",
+  "w": 18,
+  "h": 13.08,
+  "guess": true,
+  "year": "2019",
+  "kind": "digital"
+ }
+]
