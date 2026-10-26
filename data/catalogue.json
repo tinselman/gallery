@@ -181,8 +181,8 @@
   "id": "16",
   "title": "Free World",
   "medium": "Oil on Canvas",
-  "w": 10.94,
-  "h": 14,
+  "w": 11,
+  "h": 14.08,
   "guess": false,
   "year": "",
   "kind": "canvas"
@@ -235,17 +235,34 @@
   "h": 12,
   "guess": false,
   "year": "",
-  "kind": "canvas"
+  "kind": "canvas",
+  "adjust": {
+   "s": 0.54
+  }
  },
  {
   "id": "22",
   "title": "No Such thing as Hypnosis",
   "medium": "Oil on Masonite",
-  "w": 17.71,
-  "h": 24,
+  "w": 18,
+  "h": 23.47,
   "guess": false,
   "year": "",
-  "kind": "panel"
+  "kind": "panel",
+  "adjust": {
+   "b": 0.04,
+   "c": 0.38,
+   "s": 0.33,
+   "t": -0.03,
+   "sh": -0.02,
+   "hl": 0.13
+  },
+  "crop": [
+   0,
+   0,
+   1,
+   0.9619
+  ]
  },
  {
   "id": "23",
@@ -347,9 +364,9 @@
   "id": "31",
   "title": "Untitled",
   "medium": "Oil on Canvas",
-  "w": 24,
-  "h": 19.13,
-  "guess": true,
+  "w": 10,
+  "h": 7.97,
+  "guess": false,
   "year": "2025",
   "kind": "canvas"
  },
@@ -403,7 +420,16 @@
   "h": 9,
   "guess": false,
   "year": "2025",
-  "kind": "canvas"
+  "kind": "canvas",
+  "adjust": {
+   "c": 0.54,
+   "s": 0.65
+  },
+  "frame": {
+   "on": false,
+   "color": "black",
+   "mat": "white"
+  }
  },
  {
   "id": "36",
@@ -419,7 +445,11 @@
    0.0103,
    1,
    0.9888
-  ]
+  ],
+  "adjust": {
+   "c": 0.21,
+   "s": 0.14
+  }
  },
  {
   "id": "37",
@@ -481,7 +511,12 @@
   "h": 12,
   "guess": true,
   "year": "",
-  "kind": "paper"
+  "kind": "paper",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white"
+  }
  },
  {
   "id": "42",
@@ -497,12 +532,17 @@
   "id": "43",
   "title": "",
   "medium": "Ink on Paper & Digital Color",
-  "w": 11,
-  "h": 9.94,
-  "guess": true,
+  "w": 6,
+  "h": 9.2,
+  "guess": false,
   "year": "",
   "kind": "paper",
-  "off": true
+  "crop": [
+   0.0109,
+   0,
+   0.6007,
+   1
+  ]
  },
  {
   "id": "44",
@@ -522,7 +562,10 @@
   "h": 11,
   "guess": false,
   "year": "",
-  "kind": "paper"
+  "kind": "paper",
+  "adjust": {
+   "c": 0.55
+  }
  },
  {
   "id": "46",
@@ -532,7 +575,12 @@
   "h": 11.94,
   "guess": false,
   "year": "",
-  "kind": "paper"
+  "kind": "paper",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white"
+  }
  },
  {
   "id": "47",
@@ -542,7 +590,12 @@
   "h": 10,
   "guess": true,
   "year": "",
-  "kind": "paper"
+  "kind": "paper",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white"
+  }
  },
  {
   "id": "48",
@@ -558,7 +611,10 @@
    0.1271,
    0.9714,
    0.9283
-  ]
+  ],
+  "adjust": {
+   "c": 0.36
+  }
  },
  {
   "id": "49",
@@ -608,7 +664,12 @@
   "h": 13.08,
   "guess": false,
   "year": "2019",
-  "kind": "digital"
+  "kind": "digital",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white"
+  }
  },
  {
   "id": "54",
@@ -649,7 +710,12 @@
   "kind": "canvas",
   "guess": false,
   "w": 5,
-  "h": 6.99
+  "h": 6.99,
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white"
+  }
  },
  {
   "id": "58",
@@ -659,6 +725,11 @@
   "kind": "canvas",
   "guess": false,
   "w": 5,
-  "h": 7.17
+  "h": 7.17,
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white"
+  }
  }
 ]
