@@ -7,7 +7,13 @@
   "h": 23.95,
   "guess": false,
   "year": "2026",
-  "kind": "canvas"
+  "kind": "canvas",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "01",
@@ -53,7 +59,19 @@
   "h": 16.28,
   "guess": false,
   "year": "2026",
-  "kind": "canvas"
+  "kind": "canvas",
+  "adjust": {
+   "c": -0.08,
+   "s": -0.07,
+   "sh": -0.21,
+   "hl": -0.28
+  },
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "mat"
+  }
  },
  {
   "id": "05",
@@ -119,7 +137,13 @@
   "h": 21.73,
   "guess": false,
   "year": "2026",
-  "kind": "canvas"
+  "kind": "canvas",
+  "frame": {
+   "on": false,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "11",
@@ -135,7 +159,13 @@
    0.0077,
    1,
    1
-  ]
+  ],
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "12",
@@ -145,7 +175,13 @@
   "h": 23.4,
   "guess": false,
   "year": "2026",
-  "kind": "panel"
+  "kind": "panel",
+  "frame": {
+   "on": false,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "13",
@@ -165,7 +201,13 @@
   "h": 40,
   "guess": false,
   "year": "",
-  "kind": "canvas"
+  "kind": "canvas",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "15",
@@ -175,7 +217,13 @@
   "h": 12,
   "guess": false,
   "year": "",
-  "kind": "canvas"
+  "kind": "canvas",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "mat"
+  }
  },
  {
   "id": "16",
@@ -195,7 +243,19 @@
   "h": 12.35,
   "guess": false,
   "year": "",
-  "kind": "canvas"
+  "kind": "canvas",
+  "adjust": {
+   "b": 0.03,
+   "c": 0.16,
+   "s": 0.37,
+   "hl": -0.03
+  },
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "mat"
+  }
  },
  {
   "id": "18",
@@ -205,7 +265,13 @@
   "h": 40,
   "guess": false,
   "year": "",
-  "kind": "canvas"
+  "kind": "canvas",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "19",
@@ -229,7 +295,7 @@
  },
  {
   "id": "21",
-  "title": "Grasp",
+  "title": "Last Grasp",
   "medium": "Acrylic and Oil on Canvas",
   "w": 12,
   "h": 12,
@@ -250,19 +316,25 @@
   "year": "",
   "kind": "panel",
   "adjust": {
-   "b": 0.04,
-   "c": 0.38,
-   "s": 0.33,
-   "t": -0.03,
+   "b": 0.07,
+   "c": 0.03,
+   "s": 0.58,
+   "t": -0.19,
    "sh": -0.02,
-   "hl": 0.13
+   "hl": -0.23
   },
   "crop": [
    0,
    0,
    1,
    0.9619
-  ]
+  ],
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "23",
@@ -289,7 +361,13 @@
    0,
    0.9888,
    1
-  ]
+  ],
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "25",
@@ -315,7 +393,7 @@
  },
  {
   "id": "27",
-  "title": "Death Approaches",
+  "title": "Death Approaching",
   "medium": "Acrylic and Oil on Canvas",
   "w": 20,
   "h": 19.74,
@@ -336,7 +414,7 @@
  },
  {
   "id": "29",
-  "title": "Untitled",
+  "title": "Falling",
   "medium": "Water Color on Paper",
   "w": 8.96,
   "h": 12,
@@ -475,7 +553,13 @@
   "h": 60,
   "guess": false,
   "year": "2024",
-  "kind": "digital"
+  "kind": "digital",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "39",
@@ -485,11 +569,17 @@
   "h": 42.86,
   "guess": false,
   "year": "2019",
-  "kind": "canvas"
+  "kind": "canvas",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "40",
-  "title": "Untitled",
+  "title": "Powers Emerging",
   "medium": "Ink on Paper",
   "w": 8.25,
   "h": 13.29,
@@ -530,7 +620,7 @@
  },
  {
   "id": "43",
-  "title": "",
+  "title": "Round Peg",
   "medium": "Ink on Paper & Digital Color",
   "w": 6,
   "h": 9.2,
@@ -546,7 +636,7 @@
  },
  {
   "id": "44",
-  "title": "Big Hug",
+  "title": "Jump Rope",
   "medium": "Ink on Paper",
   "w": 12.5,
   "h": 8,
@@ -556,7 +646,7 @@
  },
  {
   "id": "45",
-  "title": "Hugs and Kisses",
+  "title": "Protections",
   "medium": "Ink on Paper",
   "w": 8.8,
   "h": 11,
@@ -599,7 +689,7 @@
  },
  {
   "id": "48",
-  "title": "Superman",
+  "title": "Confused",
   "medium": "Ink",
   "w": 10,
   "h": 6.49,
@@ -618,7 +708,7 @@
  },
  {
   "id": "49",
-  "title": "Wood Head Mask",
+  "title": "Wood Head",
   "medium": "Digital Painting",
   "w": 20.87,
   "h": 30,
@@ -628,37 +718,55 @@
  },
  {
   "id": "50",
-  "title": "Mickey Mask",
+  "title": "Mickey",
   "medium": "Digital Painting",
   "w": 37.5,
   "h": 30,
   "guess": false,
   "year": "",
-  "kind": "digital"
+  "kind": "digital",
+  "frame": {
+   "on": false,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "51",
-  "title": "Floating—Copper Mask",
+  "title": "Float",
   "medium": "Digital Painting",
   "w": 37.68,
   "h": 30,
   "guess": false,
   "year": "",
-  "kind": "digital"
+  "kind": "digital",
+  "frame": {
+   "on": false,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "52",
-  "title": "My Nightmare—Paper Masks",
+  "title": "My Nightmare",
   "medium": "Digital Painting",
   "w": 100.01,
   "h": 60,
   "guess": false,
   "year": "",
-  "kind": "digital"
+  "kind": "digital",
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "53",
-  "title": "Protection—Wood Mask",
+  "title": "Tower",
   "medium": "Digital",
   "w": 18,
   "h": 13.08,
@@ -700,7 +808,19 @@
   "kind": "canvas",
   "guess": false,
   "w": 18,
-  "h": 24.13
+  "h": 24.13,
+  "adjust": {
+   "b": -0.59,
+   "c": 0.42,
+   "s": -0.18,
+   "sh": -0.12
+  },
+  "frame": {
+   "on": true,
+   "color": "black",
+   "mat": "white",
+   "style": "float"
+  }
  },
  {
   "id": "57",
