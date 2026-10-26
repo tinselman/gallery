@@ -120,10 +120,13 @@
     if (e.data.rmiContact) open(e.data.rmiContact.about);
     if (e.data.rmiContactClose) close();
     // the visitor walked out of the gallery's front door: back to wherever they were on the site
+    // (going Back, not loading the page again, so they land where they were on it, scrolled as they left it)
     if (e.data.rmiLeave) {
       var from = document.referrer, here = location.href.split('#')[0];
-      if (/^https:\/\/(www\.)?robynmiller\.net\//.test(from) && from.split('#')[0] !== here) location.href = from;
-      else location.href = '/';
+      if (/^https:\/\/(www\.)?robynmiller\.net\//.test(from) && from.split('#')[0] !== here) {
+        history.back();
+        setTimeout(function () { location.href = from; }, 1500);   // in case there was nothing to go back to
+      } else location.href = '/';
     }
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
