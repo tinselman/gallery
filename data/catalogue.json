@@ -22,12 +22,18 @@
  {
   "id": "02",
   "title": "Flower Lady",
-  "medium": "",
-  "w": 19.82,
-  "h": 20,
-  "guess": true,
-  "year": "",
-  "kind": "canvas"
+  "medium": "Oil on Masonite",
+  "w": 12,
+  "h": 12.25,
+  "guess": false,
+  "year": "2026",
+  "kind": "canvas",
+  "crop": [
+   0.0083,
+   0,
+   0.9971,
+   1
+  ]
  },
  {
   "id": "03",
@@ -46,27 +52,27 @@
   "w": 12,
   "h": 16.28,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "canvas"
  },
  {
   "id": "05",
   "title": "No Morning Coffee",
-  "medium": "",
+  "medium": "Oil on Canvas",
   "w": 11,
   "h": 14.33,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "canvas"
  },
  {
   "id": "06",
   "title": "Bartender",
-  "medium": "",
-  "w": 15.98,
-  "h": 20,
-  "guess": true,
-  "year": "",
+  "medium": "Oil on Masonite",
+  "w": 8,
+  "h": 10.01,
+  "guess": false,
+  "year": "2026",
   "kind": "canvas"
  },
  {
@@ -76,17 +82,17 @@
   "w": 10.91,
   "h": 14,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "canvas"
  },
  {
   "id": "08",
   "title": "Cosmo",
-  "medium": "",
+  "medium": "Oil on Masonite",
   "w": 7.14,
   "h": 12.09,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "canvas",
   "crop": [
    0.0079,
@@ -102,7 +108,7 @@
   "w": 7.13,
   "h": 12,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "panel"
  },
  {
@@ -112,7 +118,7 @@
   "w": 28,
   "h": 21.73,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "canvas"
  },
  {
@@ -122,7 +128,7 @@
   "w": 12,
   "h": 11.95,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "canvas",
   "crop": [
    0.0046,
@@ -135,20 +141,20 @@
   "id": "12",
   "title": "Young Farmer",
   "medium": "Oil on Masonite",
-  "w": 18.46,
-  "h": 24,
+  "w": 18,
+  "h": 23.4,
   "guess": false,
-  "year": "",
+  "year": "2026",
   "kind": "panel"
  },
  {
   "id": "13",
-  "title": "Legal Tender 2",
+  "title": "Legal Tender",
   "medium": "Oil on Canvas",
   "w": 16,
   "h": 11.89,
   "guess": false,
-  "year": "",
+  "year": "2025",
   "kind": "canvas"
  },
  {
@@ -185,9 +191,9 @@
   "id": "17",
   "title": "Spy",
   "medium": "Oil on Canvas",
-  "w": 19.44,
-  "h": 20,
-  "guess": true,
+  "w": 12,
+  "h": 12.35,
+  "guess": false,
   "year": "",
   "kind": "canvas"
  },
@@ -203,17 +209,17 @@
  },
  {
   "id": "19",
-  "title": "Grasp 1",
+  "title": "Grasp Left",
   "medium": "Oil on Canvas",
-  "w": 11.89,
-  "h": 16,
+  "w": 12,
+  "h": 16.15,
   "guess": false,
   "year": "",
   "kind": "canvas"
  },
  {
   "id": "20",
-  "title": "Grasp 2",
+  "title": "Grasp Right",
   "medium": "Oil on Canvas",
   "w": 12,
   "h": 16,
@@ -223,7 +229,7 @@
  },
  {
   "id": "21",
-  "title": "Grasp 3",
+  "title": "Grasp",
   "medium": "Acrylic and Oil on Canvas",
   "w": 12,
   "h": 12,
@@ -249,7 +255,8 @@
   "h": 24.44,
   "guess": false,
   "year": "",
-  "kind": "panel"
+  "kind": "panel",
+  "off": true
  },
  {
   "id": "24",
@@ -296,7 +303,7 @@
   "w": 20,
   "h": 19.74,
   "guess": false,
-  "year": "",
+  "year": "2025",
   "kind": "canvas"
  },
  {
@@ -327,7 +334,7 @@
   "w": 14,
   "h": 10.77,
   "guess": false,
-  "year": "",
+  "year": "2025",
   "kind": "canvas",
   "crop": [
    0.0257,
@@ -343,7 +350,7 @@
   "w": 24,
   "h": 19.13,
   "guess": true,
-  "year": "",
+  "year": "2025",
   "kind": "canvas"
  },
  {
@@ -353,27 +360,33 @@
   "w": 24,
   "h": 12.2,
   "guess": true,
-  "year": "",
+  "year": "2025",
   "kind": "canvas"
  },
  {
   "id": "33",
   "title": "Untitled",
   "medium": "Acrylic and Oil on Canvas",
-  "w": 23.85,
-  "h": 24,
-  "guess": true,
-  "year": "",
-  "kind": "canvas"
+  "w": 12,
+  "h": 12.05,
+  "guess": false,
+  "year": "2025",
+  "kind": "canvas",
+  "crop": [
+   0.0087,
+   0.011,
+   1,
+   1
+  ]
  },
  {
   "id": "34",
   "title": "Untitled",
   "medium": "Oil on Canvas",
-  "w": 24,
-  "h": 18.66,
-  "guess": true,
-  "year": "",
+  "w": 14,
+  "h": 10.88,
+  "guess": false,
+  "year": "2025",
   "kind": "canvas",
   "crop": [
    0.0058,
@@ -386,10 +399,10 @@
   "id": "35",
   "title": "Untitled",
   "medium": "Acrylic and Oil on Canvas",
-  "w": 24,
-  "h": 17.54,
-  "guess": true,
-  "year": "",
+  "w": 12.31,
+  "h": 9,
+  "guess": false,
+  "year": "2025",
   "kind": "canvas"
  },
  {
@@ -399,7 +412,7 @@
   "w": 11.96,
   "h": 11.76,
   "guess": false,
-  "year": "2026",
+  "year": "2025",
   "kind": "canvas",
   "crop": [
    0,
@@ -415,7 +428,7 @@
   "w": 12,
   "h": 8.84,
   "guess": false,
-  "year": "",
+  "year": "2025",
   "kind": "canvas",
   "crop": [
    0,
@@ -593,7 +606,7 @@
   "medium": "Digital",
   "w": 18,
   "h": 13.08,
-  "guess": true,
+  "guess": false,
   "year": "2019",
   "kind": "digital"
  },
@@ -617,5 +630,35 @@
   "guess": false,
   "w": 11,
   "h": 14.2
+ },
+ {
+  "id": "56",
+  "title": "Red Head",
+  "medium": "Oil on Masonite",
+  "year": "2026",
+  "kind": "canvas",
+  "guess": false,
+  "w": 18,
+  "h": 24.13
+ },
+ {
+  "id": "57",
+  "title": "1977",
+  "medium": "Oil on Canvas",
+  "year": "2026",
+  "kind": "canvas",
+  "guess": false,
+  "w": 5,
+  "h": 6.99
+ },
+ {
+  "id": "58",
+  "title": "Gym Teacher",
+  "medium": "Oil on Canvas",
+  "year": "2026",
+  "kind": "canvas",
+  "guess": false,
+  "w": 5,
+  "h": 7.17
  }
 ]
