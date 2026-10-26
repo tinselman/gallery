@@ -23,6 +23,8 @@
     '#page .sqs-block-code { transform: none !important; }',
     '#page .sqs-code-container { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 5; background: #fff; }',
     '.rmi-frame { display: block; width: 100%; height: 100%; border: 0; }',
+    // a long press on a phone never selects the gallery's frame (an iPhone shades it blue and stops it working)
+    '#page .sqs-code-container, .rmi-frame { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; -webkit-tap-highlight-color: transparent; }',
     // the Instruments Contact window, as it is there
     '.rmi-veil { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 60; display: none; }',
     '.rmi-veil.open { display: block; }',
